@@ -24,3 +24,9 @@ a {
     background: black;
   }
 }
+
+@font-face {
+  font-family: "PaperForYourAss";
+  src: url("/fonts/PaperForYourAss.woff2") format("woff2");
+  font-weight: 400;
+}
